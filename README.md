@@ -1,6 +1,6 @@
 ## BDD .
 
-My project is basically a one page website that offers services to people easily.
+My project is basically a one page website that offers services to people.
 
 ABOUT US The about us basically explains about our website and what we do.
 
