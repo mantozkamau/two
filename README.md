@@ -1,1 +1,4 @@
-## two
+## Technologies Used
+- HTML
+- JS
+- Jquery
